@@ -1,0 +1,40 @@
+{
+    "name":"Login Page",
+    "short_name": "Login",
+    "description":"A Simple Login Page App",
+    "start_url": "/index.html",
+    "display" : "standalone",
+    "theme_color":"#2196f3",
+    "background_color":"#2196f3",
+    "scope":"/",
+    "orientation":"portrait",
+    "icons":[
+      {
+        "src":"images/icons/img1.png",
+        "sizes":"72x72",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/img2.png",
+        "sizes":"96x96",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/img3.png",
+        "sizes":"128x128",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/img4.png",
+        "sizes":"144x144",
+        "type":"image/png"
+      },
+      {
+        "src":"images/icons/img5.png",
+        "sizes":"152x152",
+        "type":"image/png"
+      }
+    ],
+  
+    "splash_pages":null
+  }
